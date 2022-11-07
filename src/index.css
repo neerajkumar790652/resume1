@@ -1,0 +1,14 @@
+.App{
+  font-weight:700;
+
+}
+.App p{
+  display:flex;
+  justify-content:flex-start;
+  font-weight:100 !important;
+}
+hr{
+  height:0.5px;
+  color:black;
+  background-color:black;
+}
