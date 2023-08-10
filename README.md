@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# About the project 
+## this project is based on the Components concept
+## i have create 5 component
+### AboutInfo,Experience,Skills,Hobbies
+#### About the Components
+ All components is created as simple js function which return some ui and i imported all components in App.js to render the components
+ and All components render in the UI 
